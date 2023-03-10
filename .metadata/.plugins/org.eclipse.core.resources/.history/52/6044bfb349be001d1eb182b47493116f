@@ -1,0 +1,9 @@
+package com.mavenproject.dao;
+
+public class AlienDao {
+	
+	public Alien getAlien(int aid) {
+		
+	}
+
+}

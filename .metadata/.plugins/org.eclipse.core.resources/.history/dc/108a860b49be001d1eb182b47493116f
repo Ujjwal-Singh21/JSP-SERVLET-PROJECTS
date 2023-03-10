@@ -1,0 +1,5 @@
+package com.mavenproject.model;
+
+public class Alien {
+
+}

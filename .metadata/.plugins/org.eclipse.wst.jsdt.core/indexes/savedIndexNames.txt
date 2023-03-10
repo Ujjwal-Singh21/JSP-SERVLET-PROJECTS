@@ -1,0 +1,9 @@
+INDEX VERSION 1.4+C:\Users\uprataps\Downloads\Eclipse_Oxygen\Oxygen_Workspace\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3110710346.index
+3845158332.index
+2237540907.index
+777061450.index
+1647106476.index
+1850963062.index
+3390892860.index
+2503050557.index

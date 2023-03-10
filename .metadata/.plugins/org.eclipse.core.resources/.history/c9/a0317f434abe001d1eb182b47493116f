@@ -1,0 +1,19 @@
+package com.mavenproject.dao;
+
+import com.mavenproject.model.Alien;
+
+public class AlienDao {
+	
+	public Alien getAlien(int aid) throws ClassNotFoundException {
+		
+		Alien alien  = new Alien();
+		
+		Class.forName("com.mysql.jdbc.Driver");
+		
+		
+		
+		return alien;
+		
+	}
+
+}
